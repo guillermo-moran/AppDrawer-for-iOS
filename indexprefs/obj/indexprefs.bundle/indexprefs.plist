@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>footerAlignment</key>
+			<integer>1</integer>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Index by Guillermo Morán © 2015</string>
+		</dict>
+		<dict>
+			<key>cellClass</key>
+			<string>IndexHeaderCell</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>Index</string>
+</dict>
+</plist>

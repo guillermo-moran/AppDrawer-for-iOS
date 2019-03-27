@@ -1,0 +1,10 @@
+{
+	entry = {
+		bundle = indexprefs;
+		cell = PSLinkCell;
+		detail = "indexprefsListController";
+		icon = "IndexPrefs.png";
+		isController = 1;
+		label = "App Drawer";
+	};
+}

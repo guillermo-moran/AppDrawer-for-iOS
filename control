@@ -1,0 +1,9 @@
+Package: me.gmoran.appdrawer
+Name: AppDrawer for iOS 11
+Depends: mobilesubstrate, applist, preferenceloader
+Version: 1.5.3-1
+Architecture: iphoneos-arm
+Description: Android-style app drawer for iOS
+Maintainer: Guillermo Moran (@fr0st)
+Author: Guillermo Moran (@fr0st)
+Section: Tweaks
